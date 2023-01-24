@@ -1,0 +1,9 @@
+.nav {
+    background: #222121;
+    width: 100vw;
+    display: flex;
+    height: 70px;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
